@@ -57,6 +57,7 @@ dependencies {
     implementation 'org.whispersystems:signal-protocol-java:2.6.2'
     implementation 'com.makeramen:roundedimageview:2.3.0'
     implementation "com.wefika:flowlayout:0.4.1"
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.3'
     implementation 'net.ypresto.androidtranscoder:android-transcoder:0.3.0'
     implementation project(':libs:xmpp-addr')
     implementation 'org.osmdroid:osmdroid-android:6.0.3'
